@@ -64,6 +64,15 @@ Este proyecto en Google Apps Script automatiza el procesamiento de ventas regist
 | I       | Comentarios |
 | J       | Canal de venta (ej. `Shopify`) |
 
+- Los datos de calculos deben estar en el rango `L2:N4` es una tabla fija.
+- Las columnas deben tener la siguiente estructura:
+
+| Columna | Contenido |
+|---------|-----------|
+| L       | QUINCENA |
+| M       | ARTICULOS VENDIDOS |
+| N       | TOTAL |
+	 	
 ---
 
 ## ✍️ Autor
